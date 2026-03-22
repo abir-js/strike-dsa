@@ -7,3 +7,5 @@ lecture31-recursion/main
 39-linkedlist/linkedlistFromArray
 39-linkedlist/insertAtBegining
 39-linkedlist/addNewNode
+stack/stackUsingLinkedList
+39-linkedlist/addNewElementAfterTargetNode
