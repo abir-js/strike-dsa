@@ -21,3 +21,5 @@ stack
 39-linkedlist-p2/addNewNode
 
 build
+
+*.out
